@@ -1,0 +1,11 @@
+bin/
+config/
+data/
+logs/
+jdk/
+lib/
+modules/
+plugins/
+LICENSE.txt
+NOTICE.txt
+README.textile
